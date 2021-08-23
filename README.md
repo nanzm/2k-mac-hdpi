@@ -1,5 +1,15 @@
 ## Mac 外接2k显示器开启hidpi的方法
 
+
+ https://github.com/xzhih/one-key-hidpi
+
+
+### 一键设置
+```bash
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/xzhih/one-key-hidpi/master/hidpi.sh)"
+```
+
+
 #### 关闭System Integrity Protection SIP
 
 开机的时候按command+R进入恢复模式
