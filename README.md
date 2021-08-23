@@ -1,14 +1,13 @@
-## Mac 外接2k显示器开启hidpi的方法
+# Mac 外接2k显示器开启hidpi的方法
 
+> 参考 https://github.com/xzhih/one-key-hidpi
 
- https://github.com/xzhih/one-key-hidpi
-
-
-### 一键设置
+## 一键设置
 ```bash
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/xzhih/one-key-hidpi/master/hidpi.sh)"
 ```
 
+## 手动设置
 
 #### 关闭System Integrity Protection SIP
 
